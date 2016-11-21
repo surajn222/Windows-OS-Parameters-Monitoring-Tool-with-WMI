@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\OS Monitoring with WMI\OS Monitoring with WMI\bin\Debug\OS Monitoring with WMI.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\OS Monitoring with WMI\OS Monitoring with WMI\bin\Debug\OS Monitoring with WMI.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\OS Monitoring with WMI\OS Monitoring with WMI\bin\Debug\OS Monitoring with WMI.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\OS Monitoring with WMI\OS Monitoring with WMI\obj\Debug\OS Monitoring with WMI.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\OS Monitoring with WMI\OS Monitoring with WMI\obj\Debug\OS Monitoring with WMI.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\OS Monitoring with WMI\OS Monitoring with WMI\obj\Debug\OS Monitoring with WMI.pdb
