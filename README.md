@@ -21,4 +21,6 @@ Please note that quite a few terms of the parameters are different across OS ver
 #Tested on : <br />
 Windows Server 2008 R2. <br />
 
+![alt tag](https://github.com/surajn222/Windows-OS-Parameters-Monitoring-Tool-with-WMI/blob/master/Windows%20OS%20Monitoring%20Tool.png)
+
 NEXT STEPS: Remove methods and make a common class for all parameters
